@@ -1,0 +1,8 @@
+Package: com.travieso123.fakeiosversion
+Name: FakeIOSVersion
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Falsifica la versión de iOS para App Store
+Maintainer: Travieso123
+Author: Travieso123
